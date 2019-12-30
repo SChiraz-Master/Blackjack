@@ -1,0 +1,1 @@
+Be sure to drag & drop the the SDL folder into the C: directory.
