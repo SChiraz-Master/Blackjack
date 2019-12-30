@@ -1,0 +1,17 @@
+﻿  BJ_Mics.cpp
+c:\users\schiraz\desktop\sergio\école\university\toronto film school\semester 2\programming fundamentals\assignment 3\blackjack v3.0\blackjack v3.0\card.h(11): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Button.cpp
+c:\users\schiraz\desktop\sergio\école\university\toronto film school\semester 2\programming fundamentals\assignment 3\blackjack v3.0\blackjack v3.0\button.h(9): fatal error C1083: Cannot open include file: 'sdl.h': No such file or directory
+  Card.cpp
+c:\users\schiraz\desktop\sergio\école\university\toronto film school\semester 2\programming fundamentals\assignment 3\blackjack v3.0\blackjack v3.0\card.h(11): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Dealer.cpp
+c:\users\schiraz\desktop\sergio\école\university\toronto film school\semester 2\programming fundamentals\assignment 3\blackjack v3.0\blackjack v3.0\card.h(11): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Deck.cpp
+c:\users\schiraz\desktop\sergio\école\university\toronto film school\semester 2\programming fundamentals\assignment 3\blackjack v3.0\blackjack v3.0\card.h(11): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Game.cpp
+c:\users\schiraz\desktop\sergio\école\university\toronto film school\semester 2\programming fundamentals\assignment 3\blackjack v3.0\blackjack v3.0\card.h(11): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Main.cpp
+c:\users\schiraz\desktop\sergio\école\university\toronto film school\semester 2\programming fundamentals\assignment 3\blackjack v3.0\blackjack v3.0\card.h(11): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Player.cpp
+c:\users\schiraz\desktop\sergio\école\university\toronto film school\semester 2\programming fundamentals\assignment 3\blackjack v3.0\blackjack v3.0\card.h(11): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...
